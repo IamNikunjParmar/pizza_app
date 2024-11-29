@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0db813a-c0fe-4800-8ce8-2a27e231ebd6)# pizza_app_ui
+# pizza_app_ui
 
 ## Login And Sign in Pages 
 
@@ -22,7 +22,19 @@
 
 ## Pizza Details Screens 
 <img src = "https://github.com/user-attachments/assets/371d4db4-9846-416b-b9bc-d376b802fda2" width = "300">
-<img src = "" width = "300">
-<img src = "" width = "300">
-<img src = "" width = "300">
-<img src = "" width = "300">
+## Reward Screens 
+<img src = "https://github.com/user-attachments/assets/802aedad-dfd7-47ff-9912-7d33d26a2a9a" width = "300">
+## Profile Screens 
+<img src = "https://github.com/user-attachments/assets/a0bd3e76-1051-4141-a01b-26585ac6fa74" width = "300">
+<img src = "https://github.com/user-attachments/assets/d8914d12-7670-48bc-b43f-d94c01301360" width = "300">
+<img src = "https://github.com/user-attachments/assets/f17034e5-1cd0-4d26-bcd2-20b52190aeee" width = "300">
+<img src = "https://github.com/user-attachments/assets/41ce5b6b-0068-4190-ade7-2b3d50ff352a" width = "300">
+<img src = "https://github.com/user-attachments/assets/25047a33-6dad-4137-8284-b2b82803019c" width = "300">
+<img src = "https://github.com/user-attachments/assets/8ab05893-87e3-4aaa-bd69-4108e9b70dac" width = "300">
+<img src = "https://github.com/user-attachments/assets/3c5ef543-ebef-4ab2-b74f-30775f9491c8" width = "300">
+<img src = "https://github.com/user-attachments/assets/ba9c67ca-3bce-458a-a3a3-b56e7241e053" width = "300">
+<img src = "https://github.com/user-attachments/assets/f71550b0-e64c-418c-84c7-2c079cdda932" width = "300">
+<img src = "https://github.com/user-attachments/assets/844632fa-6b99-4bf0-bbbd-47438f91e33a" width = "300">
+<img src = "https://github.com/user-attachments/assets/86f151bd-e0f6-4195-9e8b-fbaf3c601047" width = "300">
+
+
